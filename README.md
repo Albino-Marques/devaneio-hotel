@@ -18,7 +18,7 @@ O **Hotel DEVaneio** é um projeto inovador que visa criar um site de reservas p
 - React.JS
 - Next.JS
 - Axios
-- Sass
+<!-- - Sass -->
 - Tailwind CSS
 
 ### Banco de Dados
