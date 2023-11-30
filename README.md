@@ -11,6 +11,7 @@ O **Hotel DEVaneio** é um projeto inovador que visa criar um site de reservas p
 - Node.JS
 - Nest.JS
 - FastFy
+- Prisma
 
 ### Front-end
 - TypeScript
@@ -21,8 +22,7 @@ O **Hotel DEVaneio** é um projeto inovador que visa criar um site de reservas p
 - Tailwind CSS
 
 ### Banco de Dados
-- Prisma
-- MongoDB
+- PostgreSQL
 
 ## Recursos
 
